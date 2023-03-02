@@ -21,6 +21,8 @@ K2-06, a group which is a part of the firm Technico
 
 * Vilhjalmur
 
+* Jarand
+
 ------------------------------------------------------------------------------
 
 ## Contents
